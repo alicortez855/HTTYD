@@ -17,17 +17,17 @@
                             color:black;
                         }
 
-                        #header
-                         {
+                        a:hover
+                        {
 
                             color:black;
                         }
 
-                        input{type="text"}
+                        input{type:"text"};
 
                         {
 
-                            border:1px solid red;
+                            border: 1p=x solid red;
                         }
 
 
