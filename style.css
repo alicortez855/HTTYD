@@ -1,5 +1,5 @@
 
-                       h1
+                       h1, h2
                         {
 
                             color:rgba(69, 0, 0, 0.822);
@@ -10,5 +10,26 @@
                         {
                             background-color:beige;
                         }
+
+                        div p
+                        {
+
+                            color:black;
+                        }
+
+                        #header
+                         {
+
+                            color:black;
+                        }
+
+                        input{type="text"}
+
+                        {
+
+                            border:1px solid red;
+                        }
+
+
                     
                     
