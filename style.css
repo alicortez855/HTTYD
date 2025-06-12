@@ -6,7 +6,7 @@
                             font-family:impact;
                         }
 
-                        body
+                        article
                         {
                             background-color: rgb(221, 22, 55);
                             background-image: url("https://holdenfg.org/wp-content/uploads/2021/04/Blue-Morpho-Butterfly-543564610-1920x1286.jpg");
@@ -17,7 +17,7 @@
 
                         .blur
                         {
-                            backdrop-filter: blur(Spx);
+                            backdrop-filter: blur(5px);
                             background-color:rgba(72, 31, 31, 0.738)
                         }
 
