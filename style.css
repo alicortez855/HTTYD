@@ -48,5 +48,26 @@
                         }
 
 
+                        .container
+                        {
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
+                            align-items: center;
+                            height: 200px;
+                            background-color: lightcyan
+
+                        }
+
+                        .item
+                        {
+                            flex:1;
+                            align-self:center;
+                            background-color: rgb(12, 12, 56);
+                            color:white;
+
+                        }
+
+
                     
                     
