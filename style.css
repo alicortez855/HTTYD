@@ -23,11 +23,11 @@
                             color:black;
                         }
 
-                        input{type:"text"};
+                        input[type="text"]
 
                         {
 
-                            border: 1p=x solid red;
+                            border: 1px solid red;
                         }
 
 
