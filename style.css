@@ -74,13 +74,13 @@
                             grid-template-columns: repeat(3, 1fr);
                             gap:10px;
                             padding:10px;
-                            background-color: rgb(120, 120, 197)
+                            background-color: rgb(149, 149, 255)
                         }
 
                         .item2
                         {
-                            background-color: rgb(154, 202, 151);
-                            color:rgb(210, 248, 255);
+                            background-color: rgb(105, 255, 177);
+                            color:rgb(201, 247, 255);
                             padding: 20px;
                             text-align: center;
                             font-size: 20px;
